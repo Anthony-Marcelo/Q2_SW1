@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 	<head>
-		<title> Q2 SW#1 </title>
 		<style>
 			body {
 				background-color: rgba(255, 230, 194, 1.0);
